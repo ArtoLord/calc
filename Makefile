@@ -1,5 +1,5 @@
 CC=gcc
-CFLAGS=-Wall -Iinclude -O
+CFLAGS=-Wall -Iinclude -O3
 LD=ld
 LDFLAGS=
 
